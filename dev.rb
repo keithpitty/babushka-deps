@@ -1,6 +1,7 @@
 dep 'dev' do
   requires [
     'homebrew',
-    'rubygems'
+    'rubygems',
+    'keithpitty:rubies'
   ]
 end
